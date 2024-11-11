@@ -11,7 +11,7 @@
   </a>
 <p>- 👨‍💻 All of my projects are available at https://asifzulfiqar.vercel.app/
 <br>
-- 📫 How to reach me **asifzulfiqar43@gmail.com**</p>
+- 📫 How to reach me asifzulfiqar43@gmail.com</p>
 
 <br clear="both">
 
