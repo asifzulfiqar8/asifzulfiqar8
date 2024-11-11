@@ -33,8 +33,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=redux" height="60" alt="redux logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redis" height="60" alt="redis logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
