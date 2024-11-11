@@ -19,6 +19,8 @@
 <h1 align="left">💻 My Tech Stack:</h1>
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
   <img width="12" />
+<img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sass" height="60" alt="sass logo"  />
