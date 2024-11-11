@@ -11,7 +11,7 @@
   </a>
 <p>- 👨‍💻 All of my projects are available at https://asifzulfiqar.vercel.app/
 <br>
-- 📫 How to reach me asifzulfiqar43@gmail.com</p>
+- 📫 How to reach me <a href="mailto:asifzulfiqar43@gmail.com">asifzulfiqar43@gmail.com</a></p>
 
 <br clear="both">
 
@@ -31,13 +31,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=redux" height="60" alt="redux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="60" alt="socketio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sequelize" height="60" alt="sequelize logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=redis" height="60" alt="redis logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo"  />
   <img width="12" />
