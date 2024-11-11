@@ -1,5 +1,5 @@
 <br clear="both">
-<h2 align="left">Hello, I'm Asif Zulfiqar, a mern stack Developer.</h2>
+<h2 align="left">Hello, I'm Asif Zulfiqar, a Mern stack Developer.</h2>
 
 <img align="right" src="https://profile-counter.glitch.me/asifzulfiqar43/count.svg?"  />
 <p align="left">👨🏼‍💻 working as a web developer since 2022<br>🛜 currently I am working in Tetra intech as a MERN stack developer.</p>
