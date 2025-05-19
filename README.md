@@ -9,7 +9,7 @@
   <a href="https://fb.com/asifzulfiqar8/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=plastic" height="20" alt="instagram logo"  />
   </a>
-<p>- 👨‍💻 All of my projects are available at https://asifzulfiqar.vercel.app/
+<p>- 👨‍💻 All of my projects are available at https://www.asifzulfiqar.pro
 <br>
 - 📫 How to reach me <a href="mailto:asifzulfiqar43@gmail.com">asifzulfiqar43@gmail.com</a></p>
 
