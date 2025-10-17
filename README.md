@@ -1,7 +1,7 @@
 <br clear="both">
 <h2 align="left">Hello, I'm Asif Zulfiqar, Software Engineer.</h2>
 
-<img align="right" src="https://profile-counter.glitch.me/asifzulfiqar43/count.svg?"  />
+<!-- <img align="right" src="https://profile-counter.glitch.me/asifzulfiqar43/count.svg?"  /> -->
 <!-- <p align="left">💼 currently I am working as a Software Engineer with Voho.</p> -->
   <a href="https://linkedin.com/in/asifzulfiqar8" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="20" alt="linkedin logo"  />
